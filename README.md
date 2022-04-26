@@ -10,23 +10,7 @@ adaptive solutions for complex problems.
 ![alt text](img/overview-diagram.png "SCRUM Big Picture")
 
 - **`Artifacts`**: *Product Backlog, Sprint Backlog and Incremental.*
-
-    - **Product Backlog:** The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team. 
-    - **Sprint Backlog:** The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)
-    - **Incremental:** The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints.
-
-</br>
-
 - **`Events`**: ***Sprint**, Sprint planning, Daily, Sprint review and Sprint retrospective*
-
-    - **Sprint:** The Sprint is a container for all other events. 
-    - **Sprint Planning:** Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint.
-    - **Daily:** The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
-    - **Sprint review:** The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
-    - **Sprint retrospective:** The Sprint Retrospective concludes the Sprint. The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness inspecting how the last Sprint went.
-
-</br>
-
 - **`Accountabilities`**: *Product Owner, Developers and SCRUM Master*
 
 </br>
@@ -161,7 +145,7 @@ Each artifact contains a commitment:
     - Value
     - Dependences
 
-#### **Monitoring progress***
+#### **Monitoring progress**
 
 Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
@@ -178,6 +162,12 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 ### Sprint Backlog
 
 - Represent **work-to-do**
+
+>The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+
+- By and for the developers. Only devs can change the Sprint Backlog.
+
+- **Sprint Goal** is fixed, but **Sprint Backlog** could have changes without change the Sprint Goal.
 
 ### Incremental
 
@@ -198,21 +188,69 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
 ## **SCRUM Events**
 
-### Timmings.
+- **`Timmings:`**
 
-- **`Sprint`**: No more than **1 month**. 
-- **`Sprint planning`**: Maximun of **8 hours** for a for a one-month Sprint.
-- **`Daily`**: **15 min**.
-- **`Sprint Review`**: Maximun of **4 hours** for a for a one-month Sprint.
-- **`Sprint Retrospective`**: Maximun of **3 hours** for a for a one-month Sprint.
+    - `Sprint`: No more than **1 month**. 
+    - `Sprint planning`: Maximun of **8 hours** for a for a one-month Sprint.
+    - `Daily`: **15 min**.
+    - `Sprint Review`: Maximun of **4 hours** for a for a one-month Sprint.
+    - `Sprint Retrospective`: Maximun of **3 hours** for a for a one-month Sprint.
 
-</br>
+- Events are a formal opportunity to inspect and addapt something.
+
+### Sprint Planning:
+
+- `Who`: 
+    - Scrum Team.
+    - Invited Stakeholders if needed.
+- `Topics:`
+    - **Why is this Sprint valuable?** *Sprint Goal*
+    - **What can be done this sprint?** *Sprint Backlog*
+        - **Measure:** Past performance, their upcoming capacity, and their Definition of Done
+    - **How will the chosen work get done?** *Increment*
+
+### Sprint
+
+- ***The Heart of Scrum***
+- Defined before **Sprint Planning** and cannot be modified later (except when the sprint is cancelled).
+- **Must have** fixed durations.
+- **During sprint**:
+    - No changes are made that would endanger the Sprint Goal.
+    - **Quality** goals **no decrease**
+    - The Product Backlog is refined if needed.
+- **Only** the **Product Owner** has the autority to cancel de Sprint.
+
+- `Invalid Sprints`:
+    - Hardening, stabilization sprints..
+    - Sprint 0
+    - Release Sprint
+    - Design Sprint
+
+### Daily Scrum
+
+- Where developers talk about their **progress** toward the **sprint goal** and to **adapt** the **Sprint Backlog** as needed.
+- The Scrum Master only needs to ensure that the meeting takes place.
+- The **Product Owner** neither participate in the meeting. 
+- If **SM** or **PO** participate, they do as **developers**.
+- No time to discuss the solution to a problem. Not technical meeting.
+
+### Sprint Review
+
+- The **Goal** is **inspect** the increment or any other outcome of the Sprint.
+- **Adapt** Product Backlog if needed.
+- **Undone work** is **NOT** presented during Sprint Review. 
+- Sprint Review is based on **transparency** and **colaboration**.
+
+### Sprint Retrospective
+
+- Entire Scrum Team participate.
+- The purpose of the Sprint Retrospective is to plan ways to **increase quality** and **effectiveness**.
+- After Sprint Review, and **conclude** the **Sprint**.
+- What went/didnt went well during the sprint?
+- How we can improve?
+
 
 ## **Definitions**
-
-- **``**:
-    - **
-
 
 - **`SCRUM`**:
     - *A mechanism to optimize the value delivery system.*
@@ -249,3 +287,7 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
     - *Story points are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product backlog item or any other piece of work*
 - **`Planning Poker:`**:
     - *Is a consensus-based, gamified technique for estimating*
+- **`Upcomming Capacity:`**:
+    - *How many hours available the Developers have for this Sprint*
+- **`WIP:`**:
+    - *Work In Progress.*
