@@ -29,10 +29,6 @@ adaptive solutions for complex problems.
 
 - **`Accountabilities`**: *Product Owner, Developers and SCRUM Master*
 
-    - **Product Owner**.
-    - **Developers:**.
-    - **SCRUM Master:**.
-
 </br>
 
 ## **Scrum Guide**
@@ -186,6 +182,17 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 ### Incremental
 
 - Represent **value**
+- Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+- Work cannot be considered part of an Increment unless it meets the Definition of Done.
+    - Definitions Of Done (DOD):
+        > A **formal description** of the state of the increment when it meets the **quality** measures required for the product.
+    - Each Increment has **only one** DOD.
+    - The organization defined DOD, if the organization does not have one, the scrum team must define one appropiated DOD.
+- `Technical debt`:
+    - **Consequences** of **poor** software development practices.
+- You **dont need** to release Increment at the end of every sprint.
+- The Sprint **is not a gate**, release might be performed during a sprint.
+
 
 </br>
 
