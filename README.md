@@ -1,5 +1,33 @@
 # 📚 Professional Scrum Master 1 (PSM I) cheatsheet repository.
 
+## **TOC**
+
+  * [**What is SCRUM?**](#--what-is-scrum---)
+  * [**Big Picture**](#--big-picture--)
+  * [**Scrum Guide**](#--scrum-guide--)
+  * [**Agile Manifesto**](#--agile-manifesto--)
+    + [Project](#project)
+    + [Product](#product)
+    + [People](#people)
+    + [Process](#process)
+  * [**SCRUM Theory**](#--scrum-theory--)
+  * [**SCRUM Values**](#--scrum-values--)
+  * [**SCRUM Team**](#--scrum-team--)
+    + [Product Owner.](#product-owner)
+    + [Developers.](#developers)
+    + [Scrum Master.](#scrum-master)
+  * [**SCRUM Artifacts**](#--scrum-artifacts--)
+    + [Product Backlog](#product-backlog)
+    + [Sprint Backlog](#sprint-backlog)
+    + [Incremental](#incremental)
+  * [**SCRUM Events**](#--scrum-events--)
+    + [Sprint Planning:](#sprint-planning-)
+    + [Sprint](#sprint)
+    + [Daily Scrum](#daily-scrum)
+    + [Sprint Review](#sprint-review)
+    + [Sprint Retrospective](#sprint-retrospective)
+  * [**Definitions**](#--definitions--)
+
 ## **What is SCRUM?**
 
 Scrum is a lightweight framework that helps people, teams and organizations generate value through
@@ -145,7 +173,7 @@ Each artifact contains a commitment:
     - Value
     - Dependences
 
-#### **Monitoring progress**
+**Monitoring progress**
 
 Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
