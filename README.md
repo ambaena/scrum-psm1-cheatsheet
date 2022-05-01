@@ -1,4 +1,4 @@
-# 📚 Professional Scrum Master 1 (PSM I) cheatsheet repository.
+# Professional Scrum Master 1 (PSM I) cheatsheet repository.
 
 ## **TOC**
 
@@ -125,25 +125,39 @@ Now we will discuss about the 12 principles of Agile Manifesto in four different
 
 > If Scrum Team come large, they should consider reorganizing into multiple cohesive teams, each focused in same Product. **They should share same Product Goal, Product Owner and Product Backlog`**
 
-
 ### Product Owner.
-
 - Maximizes the **value** delivery chain.
 - Manages the **Product Backlog**.
 - The Product Owner represents the interests of the business or community product stakeholders through the content and order of the Product Backlog.
 - Customer interaction.
+- **Main** responsible for engaging the stakeholders, but not unique. All Scrum team is responsible.
 - Progress inpection.
 - Product Owner musth have **authority**.
 
 ### Developers.
 - They are responsible for transforming the idea reflected in the **Product Backlog** into **Incrementals**.
 - **Self-Managed** and **Cross-Funcional**.
+- Allowed to update **Product Backlog**, but the PO remains accountable.
+- Estimate the **size** of the **Product Backlog**.
 
 ### Scrum Master.
 - Is responsible to make **Scrum** run smoothly.
+- **Accountable** for establishing Scrum
 - Cause the removal of **impediments**.
 - Coaching.
 - Meeting facilitation.
+- Actions may take in starting up Scrum implementation:
+    - Ask the developers to introduce themselves to each others and tell about their skills and background.
+    - Ask the PO to explain the product, its bussines need, history, goals...
+    - Ask the developers to discuss and identify the way they are going to develop the product. =
+- Facilate stakeholders collaboration as requested or needed.
+
+### Staled Scrum.
+- Multiple Scrum teams working on one product.
+- Only One Product Owner per Product Goal, so same Product Backlog.
+- One integrated Increment, so unique Increment.
+- Don't need to be synchronized.
+- Definition of Done for teams, but every team can have own DOD. Team DOD is a minimum that every team must follow.
 
 </br>
 
@@ -160,12 +174,13 @@ Each artifact contains a commitment:
 ### Product Backlog
 
 - Represent **work-to-do**
+- It is never complete.
 - Commitment: **Product Goal**
     - Is posible to have multiple product goal's, but the Scrum team will **focus** on one product goal at a time.
 - The Product Backlog is an emergent, ordered list of what is needed to improve the product. 
 - It list all features, functions, requirements, enhancements and fixes that constitute the changes to be made to the product in future release.
 - It is the single source of work undertaken by the Scrum Team. 
-- A **Product** has a **single* Product Backlog, no exceptions here.
+- A **Product** has a **single** Product Backlog, no exceptions here.
 - Epics -> User Storie
 - The **Product Owner** orders it considering whatever he/she judges as appropiate. Order by 4 factors:
     - Size
@@ -261,6 +276,10 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 - The **Product Owner** neither participate in the meeting. 
 - If **SM** or **PO** participate, they do as **developers**.
 - No time to discuss the solution to a problem. Not technical meeting.
+- Topics:
+    1. Impediments
+    2. What work i did yesterday to achieve goal?
+    3. Ehat work i am going to do today to achieve goal?
 
 ### Sprint Review
 
@@ -273,9 +292,12 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
 - Entire Scrum Team participate.
 - The purpose of the Sprint Retrospective is to plan ways to **increase quality** and **effectiveness**.
+- The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done.
 - After Sprint Review, and **conclude** the **Sprint**.
 - What went/didnt went well during the sprint?
 - How we can improve?
+- Discuss DOD.
+- Discuss the composition of the team.
 
 
 ## **Definitions**
@@ -302,20 +324,22 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
     - **
 - **`Product`**:
     - *A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract.*
-- **`Product Vision:`**:
+- **`Product Vision:`**
     - *What drives all the effort to build a product, describint the ultimate reason for creating it*
-- **`Product Strategy:`**:
+- **`Product Strategy:`**
     - *Is where we define how to the vision will be realized*
-- **`Epics:`**:
+- **`Epics:`**
     - *Short reminders of stuff that the product will have.*
     - *Briefly describe the product features.*
-- **`User Stories:`**:
+- **`User Stories:`**
     - *To describe small Product Backlog items.*
-- **`Story Point:`**:
+- **`Story Point:`**
     - *Story points are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product backlog item or any other piece of work*
-- **`Planning Poker:`**:
+- **`Planning Poker:`**
     - *Is a consensus-based, gamified technique for estimating*
-- **`Upcomming Capacity:`**:
+- **`Upcomming Capacity:`**
     - *How many hours available the Developers have for this Sprint*
-- **`WIP:`**:
+- **`WIP:`**
     - *Work In Progress.*
+- **`Cone of Uncertainty:`**
+    - *Describes the reduction of the uncertainty about scope after each iteration.*
