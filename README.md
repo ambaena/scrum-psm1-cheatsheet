@@ -26,8 +26,8 @@
     + [Daily Scrum](#daily-scrum)
     + [Sprint Review](#sprint-review)
     + [Sprint Retrospective](#sprint-retrospective)
-  * [**Definitions**](#--terms--)
-  * [**HOW TO FACE THE PSM1 ASSESSMENT**](#--how-to-face-the-assesment--)
+  * [**Definitions**](#terms)
+  * [**HOW TO FACE THE PSM1 ASSESSMENT**](#how-to-face-the-assessment)
 
 ## **What is SCRUM?**
 
