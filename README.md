@@ -1,4 +1,4 @@
-# Professional Scrum Master 1 (PSM I) cheatsheet repository.
+# 📚 Professional Scrum Master 1 (PSM I) cheatsheet.
 
 ## **TOC**
 
@@ -26,7 +26,8 @@
     + [Daily Scrum](#daily-scrum)
     + [Sprint Review](#sprint-review)
     + [Sprint Retrospective](#sprint-retrospective)
-  * [**Definitions**](#--definitions--)
+  * [**Definitions**](#--terms--)
+  * [**HOW TO FACE THE PSM1 ASSESSMENT**](#--how-to-face-the-assesment--)
 
 ## **What is SCRUM?**
 
@@ -47,6 +48,8 @@ adaptive solutions for complex problems.
 
 Scrum Guide as the official standard about Scrum!.
 
+
+
 It is recommended reading, it is a very condensed document with all the necessary information to understand SCRUM.
 
 [SCRUM Guide (English)](https://scrumguides.org/scrum-guide.html)
@@ -55,7 +58,9 @@ It is recommended reading, it is a very condensed document with all the necessar
 
 ## **Agile Manifesto**
 
-Now we will discuss about the 12 principles of Agile Manifesto in four differents categories:
+Scrum is strongly **based** on `Agile Manifesto`. This is **not mandatory** to pass **PSM1** assessment, but is **good to know**.
+
+We can divide 12 principles of Agile Manifesto in four differents categories:
 
 - Project
 - Product
@@ -63,10 +68,9 @@ Now we will discuss about the 12 principles of Agile Manifesto in four different
 - Proccess
 
 
-
 ### Project
 
-- *Our highest priorityis to satisfy the customer throught early and continuous delivery of **valuable software***
+- *Our highest priority is to satisfy the customer throught early and continuous delivery of **valuable software***
 - ***Welcome changing requirements** even late in development. Agile processes harness change for the customer`s ompetitive advantage*
 - ***Deliver** working software **frequently**, from a couple of weeks to a couple of months, with a preference to the shorter timescale*
 - *Agile processes promote **sustainable development**. The sponsors, developers, and users should be able to maintain a constant pace indefinitely*
@@ -123,7 +127,8 @@ Now we will discuss about the 12 principles of Agile Manifesto in four different
 - **Scrum Master** (SM) [x1]
 -  **Developers** (Devs) [< x10]
 
-> If Scrum Team come large, they should consider reorganizing into multiple cohesive teams, each focused in same Product. **They should share same Product Goal, Product Owner and Product Backlog`**
+
+> If Scrum Team come large, they should consider reorganizing into multiple cohesive teams, each focused in same Product. **They should share same Product Goal, Product Owner and Product Backlog**
 
 ### Product Owner.
 - Maximizes the **value** delivery chain.
@@ -131,31 +136,33 @@ Now we will discuss about the 12 principles of Agile Manifesto in four different
 - The Product Owner represents the interests of the business or community product stakeholders through the content and order of the Product Backlog.
 - Customer interaction.
 - **Main** responsible for engaging the stakeholders, but not unique. All Scrum team is responsible.
-- Progress inpection.
-- Product Owner musth have **authority**.
+- Progress inspection.
+- Product Owner must have **authority**.
 
 ### Developers.
 - They are responsible for transforming the idea reflected in the **Product Backlog** into **Incrementals**.
-- **Self-Managed** and **Cross-Funcional**.
+- **Self-Managed** and **Cross-Functional**.
 - Allowed to update **Product Backlog**, but the PO remains accountable.
 - Estimate the **size** of the **Product Backlog**.
 
 ### Scrum Master.
 - Is responsible to make **Scrum** run smoothly.
-- **Accountable** for establishing Scrum
+- **Accountable** for establishing Scrum.
 - Cause the removal of **impediments**.
-- Coaching.
-- Meeting facilitation.
+- **Coaching.**
+- **Meeting facilitation.**
 - Actions may take in starting up Scrum implementation:
     - Ask the developers to introduce themselves to each others and tell about their skills and background.
     - Ask the PO to explain the product, its bussines need, history, goals...
-    - Ask the developers to discuss and identify the way they are going to develop the product. =
-- Facilate stakeholders collaboration as requested or needed.
+    - Ask the developers to discuss and identify the way they are going to develop the product.
+- **Facilate stakeholders collaboration** as requested or needed.
 
-### Staled Scrum.
-- Multiple Scrum teams working on one product.
-- Only One Product Owner per Product Goal, so same Product Backlog.
-- One integrated Increment, so unique Increment.
+</br>
+
+**`Staled Scrum:`**
+- Multiple Scrum teams working on **one product.**
+- Only **one** Product Owner per Product Goal, so per Product Backlog.
+- **One integrated Increment**, so unique Increment.
 - Don't need to be synchronized.
 - Definition of Done for teams, but every team can have own DOD. Team DOD is a minimum that every team must follow.
 
@@ -170,25 +177,27 @@ Each artifact contains a commitment:
 |`Product Backlog`| Product Goal      |
 |`Sprint Backlog` | Sprint Goal       |
 |`Incremental`    | Definition Of Done|
+</br>
 
 ### Product Backlog
 
 - Represent **work-to-do**
-- It is never complete.
+- It is **never complete.**
 - Commitment: **Product Goal**
     - Is posible to have multiple product goal's, but the Scrum team will **focus** on one product goal at a time.
-- The Product Backlog is an emergent, ordered list of what is needed to improve the product. 
+- The Product Backlog is an **emergent**, ordered list of what is needed to improve the product. 
 - It list all features, functions, requirements, enhancements and fixes that constitute the changes to be made to the product in future release.
-- It is the single source of work undertaken by the Scrum Team. 
+- It is the **single source of work** undertaken by the Scrum Team. 
 - A **Product** has a **single** Product Backlog, no exceptions here.
-- Epics -> User Storie
+- Epics -> User Stories.
+- Product Backlog **Refinement** required as time is **needed**.
 - The **Product Owner** orders it considering whatever he/she judges as appropiate. Order by 4 factors:
     - Size
     - Risk
     - Value
     - Dependences
 
-**Monitoring progress**
+**`Monitoring progress`**
 
 Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
@@ -200,7 +209,7 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
 - `Cummulative flow chart.` 
 
-
+</br>
 
 ### Sprint Backlog
 
@@ -208,7 +217,7 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
 >The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
 
-- By and for the developers. Only devs can change the Sprint Backlog.
+- By and for the developers. **Only devs can change** the Sprint Backlog.
 
 - **Sprint Goal** is fixed, but **Sprint Backlog** could have changes without change the Sprint Goal.
 
@@ -221,8 +230,6 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
         > A **formal description** of the state of the increment when it meets the **quality** measures required for the product.
     - Each Increment has **only one** DOD.
     - The organization defined DOD, if the organization does not have one, the scrum team must define one appropiated DOD.
-- `Technical debt`:
-    - **Consequences** of **poor** software development practices.
 - You **dont need** to release Increment at the end of every sprint.
 - The Sprint **is not a gate**, release might be performed during a sprint.
 
@@ -234,12 +241,12 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 - **`Timmings:`**
 
     - `Sprint`: No more than **1 month**. 
-    - `Sprint planning`: Maximun of **8 hours** for a for a one-month Sprint.
+    - `Sprint planning`: Maximun of **8 hours** for a one-month Sprint.
     - `Daily`: **15 min**.
     - `Sprint Review`: Maximun of **4 hours** for a for a one-month Sprint.
     - `Sprint Retrospective`: Maximun of **3 hours** for a for a one-month Sprint.
 
-- Events are a formal opportunity to inspect and addapt something.
+- Events are a formal opportunity to inspect and adapt something.
 
 ### Sprint Planning:
 
@@ -262,7 +269,6 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
     - **Quality** goals **no decrease**
     - The Product Backlog is refined if needed.
 - **Only** the **Product Owner** has the autority to cancel de Sprint.
-
 - `Invalid Sprints`:
     - Hardening, stabilization sprints..
     - Sprint 0
@@ -279,7 +285,7 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 - Topics:
     1. Impediments
     2. What work i did yesterday to achieve goal?
-    3. Ehat work i am going to do today to achieve goal?
+    3. What work i am going to do today to achieve goal?
 
 ### Sprint Review
 
@@ -290,17 +296,17 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
 
 ### Sprint Retrospective
 
-- Entire Scrum Team participate.
+- Entire **Scrum Team** participate.
 - The purpose of the Sprint Retrospective is to plan ways to **increase quality** and **effectiveness**.
 - The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done.
 - After Sprint Review, and **conclude** the **Sprint**.
 - What went/didnt went well during the sprint?
 - How we can improve?
-- Discuss DOD.
-- Discuss the composition of the team.
+- Discuss **DOD**.
+- Discuss the **composition** of the team.
 
 
-## **Definitions**
+## **Terms**
 
 - **`SCRUM`**:
     - *A mechanism to optimize the value delivery system.*
@@ -315,9 +321,6 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
     - *You Ain`t Gonna Need It*
 - **`Agility or be agile`**:
     - *Agility means responding to change.*
-- **`Definition Of Done (DOD)`**:
-    - *List of criteria that tells when a Product Backlog item is ready*
-    - *Practice to make the ready criterial visible for everybody.*
 - **`Definition Of Ready`**:
     - *Set of criteria that defines when a Product Backog item is ready to be execute.*
 - **`Bottom-up intelligence`**:
@@ -343,3 +346,11 @@ Three diferents ways proposed by Scrum Guide to control/monitoring the progress:
     - *Work In Progress.*
 - **`Cone of Uncertainty:`**
     - *Describes the reduction of the uncertainty about scope after each iteration.*
+- **`Technical debt`:**
+    - *Consequences of poor software development practices.*
+
+</br>
+
+## **HOW TO FACE THE ASSESSMENT**:
+
+In the following `.md` *([how-to-face.md](how-to-face.md))* we will discuss it.
